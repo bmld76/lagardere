@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CompetitionIndividuelle>
+<!--
+           By BellePoule (V5.4)
+
+   http://betton.escrime.free.fr/index.php/bellepoule
+-->
+<CompetitionIndividuelle Couleur="#ada7c8" ID="a8e76541" NetID="a8e76541" Annee="2023" Arme="E" Sexe="M" Organisateur="CE Le Havre" Categorie="VET" Niveau="L" Date="26.01.2023" Appel="12:00" Scratch="12:00" Debut="12:00" TitreLong="Le Havre test" URLorganisateur="" ScoreAleatoire="1" TailleMinimaleEquipe="3" ClassementDefautEquipe="9999" ClassementManuel="0" Lieu="Le Havre" Label="">
+ <Tireurs>
+  <Tireur Nom="a" Prenom="a" DateNaissance="" Sexe="M" Licence="" Ranking="0" Rating="" Exporte="0" Statut="F"/>
+  <Tireur Nom="b" Prenom="b" DateNaissance="" Sexe="M" Licence="" Ranking="0" Rating="" Exporte="0" Statut="F"/>
+  <Tireur Nom="c" Prenom="c" DateNaissance="" Sexe="M" Licence="" Ranking="0" Rating="" Exporte="0" Statut="F"/>
+  <Tireur Nom="d" Prenom="d" DateNaissance="" Sexe="M" Licence="" Ranking="0" Rating="" Exporte="0" Statut="F"/>
+  <Tireur Nom="e" Prenom="e" DateNaissance="" Sexe="M" Licence="" Ranking="0" Rating="" Exporte="0" Statut="F"/>
+ </Tireurs>
+ <Equipes/>
+ <Arbitres/>
+ <Phases PhaseEnCours="0">
+  <Pointage/>
+  <TourDePoules PhaseID="2" ID="Tour nÂ° 1" NetID="e447e17d" ScoreMax="5" Affichage="RangDeDepart,Nom,Prenom,Club" AffichageScores="Nom,Prenom" AffichageClassement="rank,Statut,Nom,Prenom,Club,PoolID,RatioVictoires,Indice,TD" AffichageListe="Nom,Prenom,Club,PoolID,Piste,Heure" RepartitionEquilibre="1" PhaseSuivanteDesQualifies="3"/>
+  <PhaseDeTableaux PhaseID="3" ID="" NetID="9337c2e5" ScoreMax="10" Affichage="RangDeDepart,Nom,Prenom,Club" AffichageClassement="rank,Statut,Nom,Prenom,Club" PlacesTirees="0"/>
+  <ClassementGeneral PhaseID="4" ID="" Affichage="Classement,Nom,Prenom,Club,Ligue,Region,Nation" AffichageClassement="Classement,Nom,Prenom,Club,Ligue,Region,Nation"/>
+ </Phases>
+</CompetitionIndividuelle>
